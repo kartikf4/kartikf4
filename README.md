@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **unsupervised learning**
 
-- 📫 How to reach me **kartikeyaprasad@gmail.com**
+- 📫 How to reach me **kartikeyaprasad407@gmail.com**
 <p align="center"> <img src="https://media.giphy.com/media/3o6Ei2yv8fqpR3nJG8/giphy.gif" alt="kartikedits" /> </p>
 
 
